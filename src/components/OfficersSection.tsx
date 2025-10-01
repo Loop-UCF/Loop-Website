@@ -9,10 +9,11 @@ const officers = [
     major: "Business Administration",
     year: "Senior",
     bio: "Passionate about product strategy and user experience. Previously interned at Microsoft and Disney.",
-    image: "https://images.unsplash.com/photo-1494790108755-2616b612b789?w=300&h=300&fit=crop&crop=face",
+    image:
+      "https://images.unsplash.com/photo-1494790108755-2616b612b789?w=300&h=300&fit=crop&crop=face",
     linkedin: "#",
     email: "sarah.martinez@ucf.edu",
-    github: "#"
+    github: "#",
   },
   {
     name: "Alex Chen",
@@ -20,10 +21,23 @@ const officers = [
     major: "Computer Science",
     year: "Junior",
     bio: "Full-stack developer with a passion for building scalable products. Loves bridging tech and business.",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
+    image:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
     linkedin: "#",
     email: "alex.chen@ucf.edu",
-    github: "#"
+    github: "#",
+  },
+  {
+    name: "Jeremy Achong",
+    role: "Technology Chair",
+    major: "Computer Engineering",
+    year: "Junior",
+    bio: "Full-stack developer with a passion for building scalable products. Loves bridging tech and business.",
+    image:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
+    linkedin: "#",
+    email: "jeremy.achong@ucf.edu",
+    github: "#",
   },
   {
     name: "Maya Patel",
@@ -31,10 +45,11 @@ const officers = [
     major: "Industrial Engineering",
     year: "Sophomore",
     bio: "Data-driven problem solver focused on optimizing user journeys and product analytics.",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&h=300&fit=crop&crop=face",
+    image:
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&h=300&fit=crop&crop=face",
     linkedin: "#",
     email: "maya.patel@ucf.edu",
-    github: "#"
+    github: "#",
   },
   {
     name: "Jordan Williams",
@@ -42,10 +57,11 @@ const officers = [
     major: "Finance",
     year: "Junior",
     bio: "Entrepreneurial mindset with experience in fintech startups. Passionate about product monetization.",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
+    image:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
     linkedin: "#",
     email: "jordan.williams@ucf.edu",
-    github: "#"
+    github: "#",
   },
   {
     name: "Emily Rodriguez",
@@ -53,10 +69,11 @@ const officers = [
     major: "Marketing",
     year: "Junior",
     bio: "Creative strategist who loves organizing impactful events and building community connections.",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&h=300&fit=crop&crop=face",
+    image:
+      "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&h=300&fit=crop&crop=face",
     linkedin: "#",
     email: "emily.rodriguez@ucf.edu",
-    github: "#"
+    github: "#",
   },
   {
     name: "David Kim",
@@ -64,11 +81,12 @@ const officers = [
     major: "Computer Engineering",
     year: "Senior",
     bio: "Machine learning enthusiast building the next generation of intelligent products and platforms.",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300&h=300&fit=crop&crop=face",
+    image:
+      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300&h=300&fit=crop&crop=face",
     linkedin: "#",
     email: "david.kim@ucf.edu",
-    github: "#"
-  }
+    github: "#",
+  },
 ];
 
 export default function OfficersSection() {
