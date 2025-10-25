@@ -1,5 +1,5 @@
 
-  # Animated Logo Design (Copy)
+  # Loop @ UCF
 
   This is a code bundle for Animated Logo Design (Copy). The original project is available at https://www.figma.com/design/NmCVqdv4k7r0UNBIkPXB3g/Animated-Logo-Design--Copy-.
 
